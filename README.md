@@ -1,8 +1,8 @@
 # ground-coupling
 
-_From G. Bokelmann:
+## From G. Bokelmann:
 
-Some Notes before diving into the data analysis for the Ground Coupling Experiment (and some Questions):_
+_Some Notes before diving into the data analysis for the Ground Coupling Experiment (and some Questions):_
 
 *Ways of displaying the data:*
 * Record sections (r-t-plots with distance r from source), including IS (infrasound) channels with a different color, for each source type (explosion, rocket, hammer blow, stepping)
