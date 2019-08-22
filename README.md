@@ -1,6 +1,7 @@
 # ground-coupling
 
 _From G. Bokelmann:
+
 Some Notes before diving into the data analysis for the Ground Coupling Experiment (and some Questions):_
 
 *Ways of displaying the data:*
