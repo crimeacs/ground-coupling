@@ -14,6 +14,6 @@ _Some Notes before diving into the data analysis for the Ground Coupling Experim
 - [ ] Can one see infrasound-generated Rayleigh waves (for tomographically imaging near-surface vs-velocity from an infrasound source)?
 
 *Meteorological conditions:*
-- [ ] Show P and T as a function of time, as well as velocity and direction of the wind.
+- [x] Show P and T as a function of time, as well as velocity and direction of the wind.
 - [ ] Can one see the decrease of wind speed approaching the surface?
 - [ ] What is going on with the meteo-data? Can we trust them?
