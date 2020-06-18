@@ -1,6 +1,9 @@
 ## Acoustic-to-seismic ground coupling: coupling efficiency and inferring near-surface properties
-Novoselov Artemii, Fuchs Florian, G\"otz Bokelmann
-[img][https://img.univie.ac.at/fileadmin/user_upload/i_img/documents_imgw/graphic/logo_imgw_color_with_text_2100x660.png]
+_Novoselov Artemii, Fuchs Florian, G&ouml;tz Bokelmann_
+
+<img src="https://img.univie.ac.at/fileadmin/user_upload/i_img/documents_imgw/graphic/logo_imgw_color_with_text_2100x660.png"
+     alt="IMGW Logo"
+     style="float: left; margin-right: 10px;" width=50%/>
 
 This is the code to reproduce "Acoustic-to-seismic ground coupling: coupling efficiency and inferring near-surface properties" Novoselov et al. 2020 paper in Geophysical Journal International.
 
